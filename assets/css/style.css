@@ -1,0 +1,89 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* navbar-section */
+.navbar-brand img{
+    width: 50%;
+    margin-left: 40%;
+}
+.container-fluid .nav-item{
+    font-size: 1.1rem;
+    text-transform: capitalize;
+}
+.nav-item span{
+    color: rgb(133, 230, 36);
+}
+.nav-item span:hover{
+  color: blue;
+}
+.d-flex .btn1{
+   padding: 10px 30px;
+   background-color: rgb(76, 76, 252);
+   font-weight: 500;
+   color: white;
+   border: none;
+   border-radius: 10px;
+   text-transform: capitalize;
+   font-size: 1rem;
+}
+.d-flex .btn2{
+    padding: 15px 30px;
+   background-color: rgb(152, 204, 73);
+    font-weight: 500;
+   color: white;
+   border: none;
+   border-radius: 10px;
+   text-transform: capitalize;
+   font-size: 1rem;
+   
+}
+/* hero-page */
+.hero .head{
+    font-weight: 500;
+    margin-left: 8%;
+}
+.hero .head span{
+    color: rgb(133, 230, 36);
+}
+.hero h3{
+    margin-left: 8%;
+}
+.hero .lead{
+    margin-left: 8%;
+}
+.hero .btn3{
+    margin-left: 8%;
+    padding: 10px 30px;
+    text-transform: capitalize;
+    border-radius: 10px;
+}
+/* service-section */
+
+.image{
+    margin-left: 10%;
+}
+.carousel-inner{
+    margin-left: 15%;
+    padding-top: 5%;
+}
+.img6{
+    margin-left: 10%;
+    padding-top: 5%;
+}
+.img7{
+    margin-left: 10%;
+    padding-top: 5%;
+}
+.img8{
+    margin-left: 8%;
+    padding-top: 5%;
+}
+.img9{
+    margin-left: 8%;
+    padding-top: 5%;
+}
